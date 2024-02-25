@@ -1,0 +1,3 @@
+﻿  Graph.cpp
+C:\Users\admin\source\repos\AlgoritmyProject8.05\AlgoritmyProject8.05\Graph.cpp(96,25): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  AlgoritmyProject8.05.vcxproj -> C:\Users\admin\source\repos\AlgoritmyProject8.05\x64\Debug\AlgoritmyProject8.05.exe
